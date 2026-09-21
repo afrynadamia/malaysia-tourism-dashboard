@@ -1,0 +1,6 @@
+{
+  "name": "DOSM Malaysia Tourism Dashboard",
+  "description": "Papan pemuka analitik pelancongan Malaysia berasaskan data Jabatan Perangkaan Malaysia (DOSM) dengan sokongan muat naik fail Excel (.xlsx) dan CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
